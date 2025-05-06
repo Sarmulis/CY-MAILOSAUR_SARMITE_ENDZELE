@@ -1,0 +1,24 @@
+{
+  "name": "cy-mailosaur_sarmite_endzele",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarmulis/CY-MAILOSAUR_SARMITE_ENDZELE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sarmulis/CY-MAILOSAUR_SARMITE_ENDZELE/issues"
+  },
+  "homepage": "https://github.com/Sarmulis/CY-MAILOSAUR_SARMITE_ENDZELE#readme",
+  "devDependencies": {
+    "cypress": "^14.3.2",
+    "cypress-mailosaur": "^2.17.0"
+  }
+}
